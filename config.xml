@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.skorofood"
         versionCode = "10"
-        version     = "1.4.0">
+        version     = "1.5.0">
 
     <name>SkoroFood</name>
 
@@ -58,20 +58,20 @@
     </platform>
 
     <platform name="ios">
-        <icon src="res/ios/icon/8dac4c697be3e486bd3e48792ae32430.png" width="180" height="180" />
-        <icon src="res/ios/icon/efc36995a40924cd2d022fa7fc7e2af7.png" width="60" height="60" />
-        <icon src="res/ios/icon/01ad8891ad3f8f87dfea2646e8c467fc.png" width="120" height="120" />
-        <icon src="res/ios/icon/2aecadc57c4f46d3d53dda993ff4e172.png" width="76" height="76" />
-        <icon src="res/ios/icon/655576283a688c83386330330faeaa23.png" width="152" height="152" />
-        <icon src="res/ios/icon/be1d01b389a4bdb27fb4f8055c466da1.png" width="57" height="57" />
-        <icon src="res/ios/icon/7fec71b69bc1450db663f490af82b310.png" width="114" height="114" />
-        <icon src="res/ios/icon/224cb65e3ac711de1357f9729a8694bf.png" width="72" height="72" />
-        <icon src="res/ios/icon/82294e24f26158a3beba0b5b979acf51.png" width="144" height="144" />
-        <icon src="res/ios/icon/aea7f00e29dbb379db714548a0a83467.png" width="167" height="167" />
-        <icon src="res/ios/icon/5424b471823bbe5cbf45b6294388dd97.png" width="29" height="29" />
-        <icon src="res/ios/icon/cd64445841dd3249d9b956031caf823d.png" width="58" height="58" />
-        <icon src="res/ios/icon/99f109bba98c9490bb08afb8cedbde3c.png" width="87" height="87" />
-        <icon src="res/ios/icon/de1dd1335009153eacb5e55d80899bce.png" width="167" height="167" />
+        <icon src="res/ios/icon/c5b4f30abb00c3dfebb0ddf42285e460.png" width="180" height="180" />
+        <icon src="res/ios/icon/1b443f7389a3d0f795c13380485e0ef8.png" width="60" height="60" />
+        <icon src="res/ios/icon/2bee5e3c7fa677fd3088259530118a37.png" width="120" height="120" />
+        <icon src="res/ios/icon/419c5cc0fe60e5bbca383239d12faa6d.png" width="76" height="76" />
+        <icon src="res/ios/icon/26fd0f52f02178fbe758d8a2d14d541d.png" width="152" height="152" />
+        <icon src="res/ios/icon/81239b7394228045448345369f8b9ae9.png" width="57" height="57" />
+        <icon src="res/ios/icon/bae71f00129d702811c56641bb181eaa.png" width="114" height="114" />
+        <icon src="res/ios/icon/ba698a6b4f66f9c6cd503ac8f01dc35b.png" width="72" height="72" />
+        <icon src="res/ios/icon/cb513846e4a5409cf7020a404bb37e8a.png" width="144" height="144" />
+        <icon src="res/ios/icon/44487eace68f69eea6791a9a16403636.png" width="167" height="167" />
+        <icon src="res/ios/icon/c1bd2f4203a332b6625bd7472d5399eb.png" width="29" height="29" />
+        <icon src="res/ios/icon/c3e25149ac5d2de64a6f55cf8c0e42fe.png" width="58" height="58" />
+        <icon src="res/ios/icon/a21fa6b0f5b3273a21a80b90a5e9dd6e.png" width="87" height="87" />
+        <icon src="res/ios/icon/847d2d332954f44f997eedefb8e09a16.png" width="167" height="167" />
 
         <splash src="res/ios/screen/4130daf671baca9234e693816c7b3150.png" />
         <splash src="res/ios/screen/3c751969457aaa23ae362d32f6914d61.png" />
